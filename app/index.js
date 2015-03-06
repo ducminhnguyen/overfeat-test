@@ -70,7 +70,7 @@ function init() {
             var overfeatPath = '/home/ubuntu/overfeat/bin/linux_64/overfeat';
             var pathToWeight = '/home/ubuntu/overfeat/data/default';
             var overfeatParam = ' -d ' + pathToWeight + ' -n 5 ' + imageDir;
-            var callingPath = overfeatPath + ' '  + overfeatParam + '"';
+            var callingPath = overfeatPath + ' '  + overfeatParam;
             console.log(callingPath);
             exec(callingPath,function (error, stdout, stderr) {
                 console.log(stdout);
