@@ -16,7 +16,7 @@ const exec = require('child_process').exec;
 var app = express();
 init();
 
-var port = process.env.PORT || 1994;
+var port = process.env.PORT || 80;
 
 app.listen(port, function (err) {
     if (err) {
