@@ -1,0 +1,18 @@
+{
+    "DATABASE_DRIVER": "mysql",
+    "DATABASE_HOST": "cedarprojects.cwgba7zosxt3.us-east-1.rds.amazonaws.com",
+    "DATABASE_USER": "toxbadge",
+    "DATABASE_PASSWORD": "toxbadge0309",
+    "DATABASE_DATABASE": "toxtalentmaintenance",
+    "TOXTALENT_DATABASE_DRIVER": "mysql",
+    "TOXTALENT_DATABASE_HOST": "cedarprojects.cwgba7zosxt3.us-east-1.rds.amazonaws.com",
+    "TOXTALENT_DATABASE_USER": "toxbadge",
+    "TOXTALENT_DATABASE_PASSWORD": "toxbadge0309",
+    "TOXTALENT_DATABASE_DATABASE": "toxtalent",
+    "CEDAR_WEBSITE": "http://toxbadge.com",
+    "COOKIE_SECRET": "toxtalentsuperb",
+    "TALENT_AUDIENCE": "localhost:1993",
+    "TALENT_MAINTAINANCE_AUDIENCE": "localhost:1994",
+    "DEFAULT_QUESTION_SCORE": "100",
+    "APP_SECRET": "toxtalentsuperb"
+}
