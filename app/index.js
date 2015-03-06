@@ -65,7 +65,7 @@ function init() {
             // console.log(req.files);
             // res.end("File uploaded.");
             console.log(req.files);
-            var imageDir = '../uploads/' + req.files.userPhoto.name;
+            var imageDir = '/home/ubuntu/overfeat-test/uploads/' + req.files.userPhoto.name;
             // var cygwinPath = 'C:/cygwin64/bin/bash';
             var overfeatPath = '/home/ubuntu/overfeat/bin/linux_64/overfeat';
             var pathToWeight = '/home/ubuntu/overfeat/data/default';
