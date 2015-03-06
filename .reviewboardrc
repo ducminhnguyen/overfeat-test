@@ -1,0 +1,3 @@
+REVIEWBOARD_URL = "http://ec2-54-169-252-214.ap-southeast-1.compute.amazonaws.com"
+REPOSITORY = "tox-talent-maintenance"
+BRANCH = "master"

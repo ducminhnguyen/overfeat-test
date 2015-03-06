@@ -1,0 +1,9 @@
+export DATABASE_DRIVER= mysql
+export DATABASE_HOST= localhost
+export DATABASE_USER= root
+export DATABASE_PASSWORD= 9142188
+export DATABASE_DATABASE= toxtalentmaintainbeta
+export CEDAR_WEBSITE= http=//toxbadge.com
+export COOKIE_SECRET= toxtalentsuperb
+export TALENT_AUDIENCE= localhost=1993
+export TALENT_MAINTAINANCE_AUDIENCE= localhost=1994
